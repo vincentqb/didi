@@ -1,2 +1,2 @@
 # didi
-Didi competition
+[Didi competition](http://research.xiaojukeji.com/competition)
